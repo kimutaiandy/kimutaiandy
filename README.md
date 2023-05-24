@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFj0XpKSFM/t8ACeyFFHtV5SRKFwMg6sQ/view?utm_content=DAFj0XpKSFM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://kimutaiandy.io)
+[![MasterHead](https://drive.google.com/file/d/1IeSLzfCTFdsZOD43Ig4XpXQYgCqTMY1m/view?usp=share_link)](https://kimutaiandy.io)
 <h1 align="center">Hi 👋, I'm Andrew Kimutai</h1>
 <h3 align="center">A passionate Techie from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
