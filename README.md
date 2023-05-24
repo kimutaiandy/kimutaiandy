@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/background/20210709/original/pngtree-technology-network-it-poster-banner-background-picture-image_864222.jpg)](https://kimutaiandy.io)
+[![MasterHead](https://www.canva.com/design/DAFj0XpKSFM/t8ACeyFFHtV5SRKFwMg6sQ/view?utm_content=DAFj0XpKSFM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://kimutaiandy.io)
 <h1 align="center">Hi 👋, I'm Andrew Kimutai</h1>
 <h3 align="center">A passionate Techie from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
